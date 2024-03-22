@@ -13,7 +13,7 @@ This challenge involves creating a ReactJS application that leverages the Wikipe
 
 Build a ReactJS application that:
 
-- Interacts with the Wikipedia Featured Content API.
+- Interacts with the [Wikipedia Featured Content API](https://api.wikimedia.org/wiki/Feed_API/Reference/Featured_content).
 - Displays content based on user-selected dates and languages.
 - Offers a paged grid format for browsing the featured content.
 
@@ -57,8 +57,8 @@ This challenge focuses on building a Node.js API using the NestJS framework. The
 
 Develop a Node.js API using NestJS that:
 
-- Proxies Wikipedia's Featured Content API.
-- Offers translation for titles and extracts via the LibreTranslate API.
+- Proxies [Wikipedia Featured Content API](https://api.wikimedia.org/wiki/Feed_API/Reference/Featured_content).
+- Offers translation for titles and extracts via the [LibreTranslate API](https://libretranslate.com/).
 - Ensures robust validation and error handling.
 
 ### Functional Requirements
