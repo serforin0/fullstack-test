@@ -125,5 +125,7 @@ Projects achieving over 100 points will be considered for special recognition, h
 - Include a `README.md` with setup and running instructions, a project overview, and notes on libraries/frameworks used.
 - Mention any assumptions or limitations in your implementation.
 - Not submitting the project on time will immediately disqualify you as a candidate.
+- Please do not introduce any commits after the submittion time, these will not be taken in consideration.
+
 
 ## Good Luck
