@@ -88,7 +88,7 @@ Develop a Node.js API using NestJS that:
 ### Advance Bonus Feature: Full-stack Integration
 
 - Combine the backend and frontend (**bonus feature:** implementing missing translation functionality in the frontend).
-- E2E testing
+- E2E testing (we suggest using Crypress, but accept any other framework you may have experience with)
 - Configure both frontend and backend services within a docker-compose setup, showcasing a complete, deployable application stack.
 
 ## Evaluation Criteria
