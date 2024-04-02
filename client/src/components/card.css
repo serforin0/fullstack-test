@@ -1,6 +1,6 @@
 .my-card {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.25);
-    width: 18rem;
+    width: 384px;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -8,7 +8,7 @@
     border-radius: 2px;
     overflow: hidden;
     background-color: #282c34;
-    object-fit: contain;
+    object-fit: scale-down;
     height: 392px;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .card-link {
-    width: 18rem;
+    width: 384px;
     text-decoration: none;
 }
 
